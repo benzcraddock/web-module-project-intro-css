@@ -22,7 +22,7 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
     padding: 0;
     margin: 0;
     max-width: 100%;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
 }
 
 /* General Styles */
@@ -81,7 +81,7 @@ nav a {
     text-align: center;
 }
 .left {
-    width: 30%;
+    width: 25%;
 }
 .left img {
     border-radius: 50%;
@@ -89,9 +89,9 @@ nav a {
 }
 .right {
     width: 55%;
-    margin-left: 5%;
+    margin-left: 10%;
     position: absolute;
-    top: 45%;
+    top: 35%;
 }
 .text {
     width: 80%;
@@ -144,7 +144,6 @@ nav a {
 .footer-img img {
     width: 100%;
     margin: 0 auto;
-    
 }
 nav.footer {
     background-color: #F9E7DC;
